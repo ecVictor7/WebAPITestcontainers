@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	http_client "github.com/ecVictor7/WebAPITestcontainers/internal/http-client"
+	http_client "github.com/ecvictor7/webapitestcontainers/internal/http-client"
 )
 
 func main() {
