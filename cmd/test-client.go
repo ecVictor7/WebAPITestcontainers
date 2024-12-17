@@ -3,6 +3,8 @@ package main
 import (
 	"fmt"
 	"os"
+
+	http_client "github.com/ecVictor7/WebAPITestcontainers/internal/http-client"
 )
 
 func main() {
